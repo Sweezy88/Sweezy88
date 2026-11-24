@@ -34,7 +34,7 @@ Independent security researcher focused on **WhatsApp** — protocol internals, 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sweezy88&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&bg_color=0f0c29&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sweezy88&layout=compact&theme=radical&hide_border=true&bg_color=0f0c29&title_color=00e5ff&text_color=c9d1d9&langs_count=8" alt="top langs" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sweezy88&layout=compact&theme=radical&hide_border=true&bg_color=0f0c29&title_color=00e5ff&text_color=c9d1d9&langs_count=8&hide=html,css&exclude_repo=Sweezy88.github.io,sweezy-meta.github.io" alt="top langs" />
 
 </div>
 
@@ -53,8 +53,8 @@ Independent security researcher focused on **WhatsApp** — protocol internals, 
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sweezy88&theme=radical" alt="repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sweezy88&theme=radical" alt="most commit language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sweezy88&theme=radical" alt="stats summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sweezy88&theme=radical&utcOffset=3" alt="productive time" />
 </div>
 
 ## Contribution Snake
