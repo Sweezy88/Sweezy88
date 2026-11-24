@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=210&section=header&text=Sweezy&fontSize=72&fontColor=00e5ff&fontAlignY=38&desc=Offensive%20Security%20%C2%B7%20WhatsApp%20Internals&descAlignY=60&descSize=18&animation=twinkling" width="100%" alt="Sweezy" />
 
-<a href="https://sweezy88.github.io">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=680&lines=WhatsApp+internals+%26+vulnerability+research;Reverse+engineering+%C2%B7+exploit+development;Python+%7C+Node.js+%7C+Rust" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=680&lines=WhatsApp+internals+%26+vulnerability+research;Reverse+engineering+%C2%B7+exploit+development;Python+%7C+Node.js+%7C+Rust" alt="Typing SVG" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Sweezy88&style=for-the-badge&color=00e5ff&label=PROFILE+VIEWS" alt="views" />
@@ -21,7 +19,6 @@ Independent security researcher focused on **WhatsApp** — protocol internals, 
 - Vulnerability research · exploit development · responsible disclosure
 - Reverse engineering · Android / APK analysis
 - Python · Node.js · Rust · Bash
-- [sweezy88.github.io](https://sweezy88.github.io)
 
 ## Stack
 
@@ -34,7 +31,7 @@ Independent security researcher focused on **WhatsApp** — protocol internals, 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sweezy88&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&bg_color=0f0c29&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sweezy88&layout=compact&theme=radical&hide_border=true&bg_color=0f0c29&title_color=00e5ff&text_color=c9d1d9&langs_count=8&hide=html,css&exclude_repo=Sweezy88.github.io,sweezy-meta.github.io" alt="top langs" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sweezy88&layout=compact&theme=radical&hide_border=true&bg_color=0f0c29&title_color=00e5ff&text_color=c9d1d9&langs_count=8&hide=html,css" alt="top langs" />
 
 </div>
 
